@@ -1,6 +1,5 @@
 ### Hi there I'm Ash Apsangi👋
 
-<!--
 🎓 Academic Background: Pursuing a Bachelor of Science in Computer Information Systems at Bentley University, Waltham, MA (Sept 2021 – May 2025). Recipient of prestigious scholarships and consistently on the President's List.
 
 🌟 Projects: 
@@ -15,4 +14,3 @@ Technologies: Machine Learning, Deep Learning, Computer Vision, AI, Software Dev
 📅 Looking Ahead: Seeking Co-op opportunities starting January 2023 with a focus on Software Engineering and AI applications.
 📧 Contact Me: aapsangi@falcon.bentley.edu | LinkedIn
 
--->
