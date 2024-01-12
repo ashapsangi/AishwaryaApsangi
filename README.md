@@ -1,6 +1,6 @@
 ### Hi there I'm Ash Apsangi👋
 
-🎓 Academic Background: Pursuing a Bachelor of Science in Computer Information Systems and a minor in Data Analytics at Bentley University, Waltham, MA (Sept 2021 – May 2025). Recipient of prestigious scholarships and consistently on the President's List.
+🎓 Academic Background: Pursuing a Bachelor of Science in Computer Information Systems and a minor in Data Analytics and Mathematics at Bentley University, Waltham, MA (Sept 2021 – May 2025). Recipient of prestigious scholarships and consistently on the President's List.
 
 🌟 Projects: 
 - Streamlit Application Development: Built a web app for data visualization using Python and Streamlit. 
