@@ -11,6 +11,11 @@ Languages: Java, Python, C++, C, SQL, HTML, CSS, JavaScript, R, SysML.
 Tools/Frameworks: Bootstrap, Sci-kit Learn, OpenCV, NLTK, PowerBI, Tableau, Microsoft Azure, Docker, AWS, MATLAB, MySQL, Jira, Git, and more.
 Technologies: Machine Learning, Deep Learning, Computer Vision, AI, Software Development, Data Analysis.
 
+🌱 Interests:
+
+Web development.
+Creative content creation (YouTube/Discord).
+
 📅 Looking Ahead: Seeking Co-op opportunities starting January 2023 with a focus on Software Engineering and AI applications.
 📧 Contact Me: aapsangi@falcon.bentley.edu | https://www.linkedin.com/in/aishwaryaapsangi/
 
