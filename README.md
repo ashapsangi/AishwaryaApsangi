@@ -17,5 +17,7 @@
 - Creative content creation (Canva/Discord).
 
 📅 Looking Ahead: Seeking Co-op opportunities starting January 2023 with a focus on Software Engineering and AI applications.
-📧 Contact Me: aapsangi@falcon.bentley.edu | https://www.linkedin.com/in/aishwaryaapsangi/
+
+📧
+- Contact Me: aapsangi@falcon.bentley.edu | https://www.linkedin.com/in/aishwaryaapsangi/
 
