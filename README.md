@@ -14,7 +14,6 @@
 🌱 Interests:
 
 - Web development.
-- Creative content creation (Canva/Discord).
 
 📅 Looking Ahead: Seeking Co-op opportunities starting January 2023 with a focus on Software Engineering and AI applications.
 
